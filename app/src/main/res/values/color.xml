@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 灰色字体背景-->
+    <color name="grey_button_text_color">#666666</color>
+    <color name="back_bt_press" >#31a54d</color>
+    <color name="back_bt_normol" >#37c067</color>
+    <!-- 通用分割线背景-->
+    <color name="common_line_bg">#d7d7d7</color>
+
+    <!-- 注册 忘记密码 -->
+    <color name="login_regist_word">#2fb791</color>
+
+    <!-- 绿色字体 -->
+    <color name="text_green">#31a54d</color>
+    <color name="text_green_31aab2">#31aab2</color>
+    <color name="grey_99999">#999999</color>
+
+    <color name="actionsheet_blue">#037BFF</color>
+
+    <color name="actionsheet_red">#FD4A2E</color>
+
+    <color name="actionsheet_gray">#8F8F8F</color>
+</resources>

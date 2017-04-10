@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\androidUtils\Teacher\app\libs\open_sdk_r5785.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="174d5b56a80a73d36041056613f0a4b36542588d">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\transforms\dex\debug\folders\1000\2\open_sdk_r5785_2f136ed59a67649792bc9c52e047dfdf688a7f86\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidUtils\Teacher\app\libs\open_sdk_r5785.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="174d5b56a80a73d36041056613f0a4b36542588d">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\pre-dexed\release\open_sdk_r5785_2f136ed59a67649792bc9c52e047dfdf688a7f86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\13dcc42a167b462bc126bf60b5ee03a6f3072c05\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91a335dab6fcecb5f15f9f19e960e02bb3e699aa">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\pre-dexed\release\classes_873e8d58fea3a39b50423d1cf2374a5132698149.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidUtils\Teacher\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c56489bc81506150a37b9f4fa4e94787e8a642fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\0100ae83626e4893fe1fe6e6bb826f52b8bb5172\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\pre-dexed\release\classes_bbb40136b9522575ac24bf03ea157c80d86ee2d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\1de33da6233ed14e046fd9771c7f323f129d518f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd182632f14a1770907834ac4e2f4a3e8980efb2">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\pre-dexed\release\classes_d3e654760f205c8d77a668ee5990e8f1b9b21af7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.android\build-cache\1de33da6233ed14e046fd9771c7f323f129d518f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bd182632f14a1770907834ac4e2f4a3e8980efb2">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3e654760f205c8d77a668ee5990e8f1b9b21af7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\12e3848a6c9dd6decbfbc141b50997fe82e8e0bf\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2013b068d3aecc7d4a96f39d343686bcd4a84a63">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\pre-dexed\release\classes_ae923c1574e5ba872032c5878fa6ba37ff9e1bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidUtils\Teacher\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\pre-dexed\release\mta-sdk-1.6.2_32418449a43d94f93a74e552c7880f825342d365.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidUtils\Teacher\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64d926d5bc80ecbe7f29f74634a4f2273dbcbf07">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_953814bd70cfc89d8f7e2b6b0e42922d71c07f54\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidUtils\Teacher\net\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="12b8a8c47b7b190be7c53869e90fa644366b03f2">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\pre-dexed\release\classes_0e5c7df913c4440927683e34632ba021ef58b17b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\androidUtils\Teacher\tkephoto_library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89431f8e8b6d5d187364cef8fcdc690ba0ed28d2">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\pre-dexed\release\classes_88d1c55e1f57f03ee72a99dd170c211b04272470.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\androidUtils\Teacher\app\libs\mta-sdk-1.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c184c69f43b1fe46390f7123717c65bd844bccb6">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\transforms\dex\debug\folders\1000\2\mta-sdk-1.6.2_32418449a43d94f93a74e552c7880f825342d365\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.5\4f1ac7ec0215e8f87ac80269baadc82878b87ed8\rxjava-2.0.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.0.5_4868fcb25fc0b1272f45fd727b693eb6dc4a5c98\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.0.5\4f1ac7ec0215e8f87ac80269baadc82878b87ed8\rxjava-2.0.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="E:\androidUtils\Teacher\app\build\intermediates\pre-dexed\release\rxjava-2.0.5_4868fcb25fc0b1272f45fd727b693eb6dc4a5c98.jar" />
+    </item>
+
+</items>

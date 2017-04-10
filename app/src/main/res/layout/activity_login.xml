@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoLinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical">
+
+    <include layout="@layout/head" />
+
+<com.zhy.autolayout.AutoLinearLayout
+    android:layout_marginTop="24px"
+    android:layout_marginLeft="24px"
+    android:layout_marginRight="24px"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+        <EditText
+            android:id="@+id/login_phone"
+            android:layout_width="match_parent"
+            android:hint="请输入手机号"
+            android:layout_height="100px"
+            android:drawableLeft="@drawable/phone_number"
+            android:drawablePadding="24px"
+            android:maxLength="11"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:inputType="phone"
+            android:textSize="26px" />
+
+        <include layout="@layout/common_line"></include>
+
+        <EditText
+            android:id="@+id/login_passwd"
+            android:layout_width="match_parent"
+            android:layout_height="100px"
+            android:drawableLeft="@drawable/password"
+            android:drawablePadding="24px"
+            android:hint="请输入密码"
+            android:maxLength="24"
+            android:background="@null"
+            android:gravity="center_vertical"
+            android:inputType="textPassword"
+            android:textSize="26px" />
+
+
+
+    <Button
+        android:id="@+id/login"
+        android:layout_marginTop="30px"
+        android:layout_width="match_parent"
+        android:layout_height="88px"
+        android:textSize="30px"
+        android:background="@drawable/login_bg"
+        android:textColor="#ffffff"
+        android:text="登  录"
+        android:gravity="center"
+        />
+
+
+<com.zhy.autolayout.AutoRelativeLayout
+
+android:layout_width="match_parent"
+android:layout_height="88px">
+<TextView
+    android:id="@+id/login_regist"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="24px"
+    android:layout_marginLeft="24px"
+    android:layout_centerVertical="true"
+    android:textColor="@color/login_regist_word"
+    android:text="注册" />
+
+<TextView
+    android:id="@+id/login_message"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:textSize="24px"
+    android:layout_marginRight="24px"
+    android:layout_centerVertical="true"
+    android:layout_alignParentRight="true"
+    android:textColor="@color/login_regist_word"
+    android:text="短信登录" />
+
+
+</com.zhy.autolayout.AutoRelativeLayout>
+<ImageView
+    android:id="@+id/iv_three_login"
+    android:layout_gravity="center_horizontal"
+    android:src="@drawable/qq"
+    android:layout_width="150px"
+    android:layout_height="150px" />
+
+</com.zhy.autolayout.AutoLinearLayout>
+
+
+</com.zhy.autolayout.AutoLinearLayout>

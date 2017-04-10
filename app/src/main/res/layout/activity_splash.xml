@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.zhy.autolayout.AutoRelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#FFF"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrator.teacher.activity.SplashActivity">
+
+    <ImageView
+        android:id="@+id/iv_top_ico"
+        android:layout_width="153px"
+        android:layout_height="103px"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="242px"
+
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="30px"
+        android:text="爱迪健康"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12px"
+        android:layout_below="@id/iv_top_ico"
+        android:textColor="@color/grey_button_text_color"
+        />
+
+    <ImageView
+        android:id="@+id/iv_splash_root"
+        android:layout_width="336px"
+        android:layout_height="90px"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/iv_top_ico"
+        android:layout_marginTop="114px"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="28px"
+        android:layout_marginBottom="108px"
+        android:text="爱迪讯科技"
+        android:textColor="@color/grey_button_text_color"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24px"
+        android:layout_marginBottom="58px"
+        android:text="copyright @2016 四川爱迪讯科技有限公司"
+        android:textColor="@color/grey_button_text_color"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        />
+</com.zhy.autolayout.AutoRelativeLayout>
